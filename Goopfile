@@ -1,0 +1,10 @@
+github.com/fzipp/pythia
+github.com/golang/lint/golint
+github.com/jstemmer/gotags
+github.com/mgumz/vopher
+github.com/nsf/gocode
+github.com/tools/godep
+golang.org/x/tools/cmd/goimports
+golang.org/x/tools/cmd/gorename
+golang.org/x/tools/cmd/oracle
+github.com/nitrous-io/goop

@@ -1,0 +1,10 @@
+github.com/fzipp/pythia #97a8bba1878d55d2270a93cc9802185455569e02
+github.com/golang/lint/golint #7b7f4364ff76043e6c3610281525fabc0d90f0e4
+github.com/jstemmer/gotags #be986a34e20634775ac73e11a5b55916085c48e7
+github.com/mgumz/vopher #7fea6898a9373cc3fcc8b93c47af4ac7c6f216ee
+github.com/nsf/gocode #c6fbdd52ff7382a15ac64c5b04cf9a09fced5914
+github.com/tools/godep #aeda8bab6aa7e64e94a83b40e29858daeb85ee87
+golang.org/x/net #db8e4de5b2d6653f66aea53094624468caad15d2
+golang.org/x/tools/cmd/goimports #1330b289ad6d59313d86910fa35d5022cd871e7f
+golang.org/x/tools/cmd/gorename #1330b289ad6d59313d86910fa35d5022cd871e7f
+golang.org/x/tools/cmd/oracle #1330b289ad6d59313d86910fa35d5022cd871e7f
