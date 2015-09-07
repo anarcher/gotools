@@ -8,3 +8,4 @@ golang.org/x/tools/cmd/goimports
 golang.org/x/tools/cmd/gorename
 golang.org/x/tools/cmd/oracle
 github.com/nitrous-io/goop
+bitbucket.org/ymotongpoo/goenv

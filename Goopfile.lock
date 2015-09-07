@@ -1,7 +1,10 @@
+bitbucket.org/ymotongpoo/goenv #ae29112840214dea36d821f0047396598e1f3a67
+code.google.com/p/go.tools #a7e14835e46bb13da10fa8b9c9c5e7f2f378f568
 github.com/fzipp/pythia #97a8bba1878d55d2270a93cc9802185455569e02
 github.com/golang/lint/golint #7b7f4364ff76043e6c3610281525fabc0d90f0e4
 github.com/jstemmer/gotags #be986a34e20634775ac73e11a5b55916085c48e7
 github.com/mgumz/vopher #7fea6898a9373cc3fcc8b93c47af4ac7c6f216ee
+github.com/nitrous-io/goop #78b83e479865435dffcec36f2a26f5c1d501c2f0
 github.com/nsf/gocode #c6fbdd52ff7382a15ac64c5b04cf9a09fced5914
 github.com/tools/godep #aeda8bab6aa7e64e94a83b40e29858daeb85ee87
 golang.org/x/net #db8e4de5b2d6653f66aea53094624468caad15d2
